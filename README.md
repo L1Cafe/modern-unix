@@ -321,3 +321,13 @@
     <img src="https://github.com/xi-editor/xi-editor/raw/master/docs/docs/img/xi-mac-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://mosh.org/"><code>mosh</code></a>
+  </h1>
+  <p align="center">Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.</p>
+  <p align="center">
+    <img src="https://mosh.org/mosh.png" width="700" />
+  </p>
+</p>
