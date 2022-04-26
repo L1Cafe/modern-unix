@@ -36,7 +36,7 @@
   </h1>
   <p align="center">A full-featured terminal file manager. It's tiny, nearly 0-config and incredibly fast.</p>
   <p align="center">
-    <img src="https://i.imgur.com/NUsSA2u.jpg" width="600" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Nnn-screenshot.png" width="600" />
   </p>
 </p>
 
