@@ -218,7 +218,7 @@
   </h1>
   <p align="center">A wrapper around the standard <code>ping</code> tool with the objective of making the output prettier, more colorful, more compact, and easier to read.</p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/orf/gping/master/images/readme-example.gif" width="600" />
+    <img src="https://denilson.sa.nom.br/prettyping/prettyping_1.png" width="600" />
   </p>
 </p>
 
@@ -289,5 +289,15 @@
   <p align="center">A user-friendly command-line DNS client. <code>dig</code> on steroids</p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/xi-editor/xi-editor"><code>dog</code></a>
+  </h1>
+  <p align="center">A modern editor with a backend written in Rust.</p>
+  <p align="center">
+    <img src="https://github.com/xi-editor/xi-editor/raw/master/docs/docs/img/xi-mac-screenshot.png" width="700" />
   </p>
 </p>
