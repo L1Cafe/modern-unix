@@ -42,6 +42,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://dev.yorhel.nl/ncdu"><code>ncdu</code></a>
+  </h1>
+  <p align="center">A disk usage analyzer with an ncurses interface.</p>
+  <p align="center">
+    <img src="https://dev.yorhel.nl/img/ncduhelp2-2.png" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/dandavison/delta"><code>delta</code></a>
   </h1>
   <p align="center">A viewer for <code>git</code> and <code>diff</code> output</p>
