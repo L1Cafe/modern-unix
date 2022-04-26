@@ -32,6 +32,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/jarun/nnn"><code>nnn</code></a>
+  </h1>
+  <p align="center">A full-featured terminal file manager. It's tiny, nearly 0-config and incredibly fast.</p>
+  <p align="center">
+    <img src="http://i.imgur.com/kOld6HT.gif" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/dandavison/delta"><code>delta</code></a>
   </h1>
   <p align="center">A viewer for <code>git</code> and <code>diff</code> output</p>
@@ -294,7 +304,7 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/xi-editor/xi-editor"><code>dog</code></a>
+    <a href="https://github.com/xi-editor/xi-editor"><code>xi-editor</code></a>
   </h1>
   <p align="center">A modern editor with a backend written in Rust.</p>
   <p align="center">
