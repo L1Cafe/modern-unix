@@ -1,4 +1,4 @@
-<h1 align="center">Modern Unix</h1>
+<h1 align="center">Tools</h1>
 
 <p align="center">
   <h1 align="center">
@@ -338,5 +338,5 @@
 
 # Other resources
 
-[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-[Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
